@@ -110,14 +110,14 @@ author:
   name             : "zahra amiri"
   avatar           : "/assets/images/1.jpg"
   bio              : I'm a university student of computer engineering at IUST
-  location         : "تهران"
+  location         : "Tehran"
   email            : amirizahraza@gmail.com
   twitter: 
   linkedin: zahra amiri
   google_scholar: 
   github: zahra-amiri
   instagram: zahra_amiri0_0
-  calendly: https://calendly.com/zahraamiri
+  calendly: zahraamiri
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -137,7 +137,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-
+    - label: "Calendly"
+      icon: "fas fa-fw fa-calendly"
+      # url: "https://calendly.com"
 # Site Footer
 footer:
   links:
