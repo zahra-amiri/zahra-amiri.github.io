@@ -161,7 +161,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
     - label: "Calendly"
-      icon: "fab fa-fw fa-calendly"
+      # icon: "fab fa-fw fa-calendly"
       # url:
 
 
