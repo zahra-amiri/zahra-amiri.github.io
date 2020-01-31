@@ -138,7 +138,6 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Calendly"
-      icon: "fas fa-fw fa-calendly-square"
       # url: "https://calendly.com"
 # Site Footer
 footer:
